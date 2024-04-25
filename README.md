@@ -1,8 +1,8 @@
-# The interlinearity toolbox
+# The Archive Explorer
 This toolbox was developed in the framework of the ERC project [Textual Microcosms: A New Approach in Translation Studies](https://textualmicrocosms.huji.ac.il/), led by prof. Ronit Ricci at the Hebrew University of Jerusalem. The project strives to explore and document the phenomenon of interlinear translations produced between the late 16th and 20th centuries in the Indonesian-Malay world. This computer vision toolbox was devised to facilitate the mission of retrieving pages that contain interlinear translations among a vast number of manuscripts digitized in collections throughout the world, such as the British library’s Endangered Archives Project, Qalamos, Dreamsea, Leiden University manuscript collections and others. 
 
 You will find here:
-* A collab notebook that …. on an image collection and uses t-SNE (t-distributed Stochastic Neighbor Embedding) to reduce dimensions and visualize the pages as dots on a two dimensional figure. The notebook enables inclusion of tagged sets that will be colored in the figure, and lets the user explore the clusters, interpret and mine it by selecting areas in the figure and downloading them. 
+* A collab notebook that employs ResNet50 to analyze an image collection and uses t-SNE (t-distributed Stochastic Neighbor Embedding) to reduce dimensions and visualize the pages as dots on a two-dimensional figure. The notebook enables inclusion of tagged sets that will be colored in the figure, and lets the user explore the clusters, interpret and mine it by selecting areas in the figure and downloading them. 
 
 
 
