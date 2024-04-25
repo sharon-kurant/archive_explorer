@@ -7,7 +7,7 @@ You will find here:
 
 
 ![WhatsApp Image 2024-04-24 at 17 03 08_fe01861b](https://github.com/sharon-kurant/interlinearity_toolbox/assets/65344674/49ec196e-44be-4e92-aaa7-28f385896191)
-(interpreting the clusters in our t-SNE we found different types of objects in the collections. The clusters that included orange colored dots are those that included images pre-annotated as including interlinear translations.
+(interpreting the clusters in our t-SNE we found different types of objects in the collections. The clusters that included orange colored dots are those that included images pre-annotated as including interlinear translations).
 * A collab notebook that enables training a custom model to recognize a visual phenomenon in a collection of images (in our case, interlinear lines).  The model can then be used to classify a collection according to a chosen threshold of confidence and output a csv of the results. 
 To download the model we trained for interlinearity detection, click  [here](https://drive.google.com/drive/folders/10mdS8AKVqfd7svAZCgSEIkrbuer3gmX1?usp=sharing). 
 
